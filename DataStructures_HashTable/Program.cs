@@ -32,6 +32,8 @@ namespace DataStructures_HashTable
             Console.WriteLine("1st index value: " + hash2);
             string hash13 = hash.Get("13");
             Console.WriteLine("13th index value: " + hash13);
+            string hash15 = hash.Get("15");
+            Console.WriteLine("15th index value: " + hash15);
         }
     }
 }
